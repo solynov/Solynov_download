@@ -1,5 +1,6 @@
 {
-  "version": "2.13",
+  "version": "2.21",
+  "date": "2026-09-11",
   "url": "https://solynov.com/telechargement.html",
-  "notes": "Assistance plus fiable : l'aide s'ouvre toujours sur le poste en cas de donnée manquante. Corrections diverses."
+  "notes": "Mise à jour de conformité : reprise d'une période, numérotation libre, journal horodaté par version."
 }

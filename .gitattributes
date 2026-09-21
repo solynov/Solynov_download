@@ -1,0 +1,22 @@
+# Fins de ligne : decidees ICI, une fois pour toutes.
+#
+# Meme regle que les quatre autres depots Solynov. Constate le 21/09/2026
+# sur celui-ci : `version.json.avant_18-09` etait en CRLF sur le disque
+# alors que le depot le stocke en LF -- cinq lignes annoncees modifiees,
+# rigoureusement identiques.
+#
+# Ce depot compte plus que sa taille ne le laisse croire : c'est lui qui
+# sert `version.json`, le fichier que TOUS les Solynov installes
+# interrogent pour savoir s'il existe une mise a jour. Un faux changement
+# qui traine ici, c'est un risque de commit distrait sur le fichier le plus
+# lu du produit.
+
+# Par defaut : texte, stocke et restitue en LF.
+* text=auto eol=lf
+
+# Binaires : jamais touches, sous aucune configuration.
+*.exe  binary
+*.zip  binary
+*.pdf  binary
+*.png  binary
+*.ico  binary

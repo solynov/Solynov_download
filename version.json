@@ -1,6 +1,6 @@
 {
   "version": "2.22",
-  "date": "2026-09-18",
+  "date": "2026-09-22",
   "url": "https://solynov.com/telechargement.html",
-  "notes": "Suivi des règlements : encaissements, clôtures journalière, mensuelle et annuelle, livre des recettes, impayés par ancienneté, archivage réglementaire. Mentions légales de société sur la facture : forme juridique et capital social (art. R123-237 et R123-238 du code de commerce). Mentions d'exonération de TVA exactes sur la page imprimée et dans les données structurées. Reprise d'une période, numérotation libre, journal horodaté par version. Bridge : les données codées de votre gestion sont déchiffrées ou signalées, jamais devinées, et le diagnostic montre ce que Solynov a compris avant d'émettre."
+  "notes": "Suivi des règlements : encaissements, clôtures journalière, mensuelle et annuelle, livre des recettes, impayés par ancienneté, archivage réglementaire. Mentions légales de société sur la facture : forme juridique et capital social (art. R123-237 et R123-238 du code de commerce). Mentions d'exonération de TVA exactes sur la page imprimée et dans les données structurées. Reprise d'une période, numérotation libre, journal horodaté par version. Bridge : les données codées de votre gestion sont déchiffrées ou signalées, jamais devinées, et le diagnostic montre ce que Solynov a compris avant d'émettre. Bridge : correction du démarrage — la fenêtre principale s'ouvre de nouveau et passe au premier plan."
 }

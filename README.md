@@ -29,7 +29,7 @@ Les installateurs de la version courante sont dans la **dernière release** de c
 
 Site, démos et aide : **https://solynov.com** · Bridge : https://solynov.com/bridge.html · Starter : https://solynov.com/produit.html · Bridge, système par système (Excel, Access, Sage 50, EBP) : https://solynov.com/factur-x-depuis-votre-logiciel-de-gestion.html
 
-Un an de mises à jour de conformité inclus, puis renouvellement facultatif à 29 €/an ;
-le logiciel reste fonctionnel sans renouvellement.
+5 ans de mises à jour inclus, sans abonnement ;
+le logiciel reste fonctionnel ensuite.
 
 Éditeur : EI SOLYNOV — contact@solynov.com
